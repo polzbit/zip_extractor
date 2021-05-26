@@ -2,7 +2,7 @@
 
 a simple CLI tool based on zipFile module to extract all zip files in given path. 
 
-## Useage
+## Usage
 
 it takes two arguments:
 <br/>
