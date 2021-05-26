@@ -1,6 +1,6 @@
 # ZIP Extractor
 
-a simple CLI tool based on `zipFile` module to extract all zip files in given path. 
+a simple CLI tool based on zipFile module to extract all zip files in given path. 
 
 ## Getting Started
 
