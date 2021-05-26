@@ -54,5 +54,5 @@ def extractFiles(inDir, outDir):
     return all_files
 
 if __name__ == "__main__":
-    getParse()  # on run get user arguments and run program
+    getParse()
 
